@@ -3,3 +3,4 @@ Git練習
 わわわ
 git rm
 git sttatus
+git diff
